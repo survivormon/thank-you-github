@@ -1590,3 +1590,4 @@ Signed,
 - Karina Kozarova  ([@karinakozarova](https://github.com/karinakozarova)), Software Engineer
 - Shaily ([@Shaily20](https://github.com/Shaily20)), Information Technology Undergraduate, New Delhi, India
 - Danil Shankovskiy ([@BeAsYit](https://github.com/BeAsYit)), CS Student, Ukraine
+- Shaun Stute ([@survivormon](https://github.com/survivormon)), Computer Science Student, University of North Dakota
